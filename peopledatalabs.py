@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 
-import json
-import requests
-
 # 1 2 3
 # 4 5 6
 # 7 8 9
