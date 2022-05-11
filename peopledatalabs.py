@@ -23,7 +23,8 @@ start_key = 5
 next_key = 0
 combination = []
 
-#response = requests.get("https://adventofcode.com/2016/day/2/input")
+# Need to be logged in to Advent of Code for the link below to work
+# response = requests.get("https://adventofcode.com/2016/day/2/input")
 
 with open(r'./keypad-moves.txt', 'r') as fp:
     for line in fp:
